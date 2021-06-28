@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day_7_Challenge_5_Improving_the_User_Experience" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day_8_86_Caesar_Cipher_Part_4_User_Experienec_Improvement_and_Final_Touches" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
